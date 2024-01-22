@@ -1,0 +1,20 @@
+#flag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2pc;
+    flex-wrap: wrap;
+   }
+   
+   body{
+    background:paleturquoise;
+   }
+   
+   #btn{
+    border: none;
+    outline: none;
+    background:papayawhip;
+    color: rgb(73, 9, 234);
+    padding: 25px 30px;
+    border-radius: 24px;
+   }    
